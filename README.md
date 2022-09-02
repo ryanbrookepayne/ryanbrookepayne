@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer building Android apps at [WillowTree](https://www.willowtreeapps.com/). In my free time I enjoy playing bluegrass and country music.
+I'm a software engineer building Android apps at [WillowTree](https://www.willowtreeapps.com/). In my free time I enjoy playing bluegrass and old-time music.
 
 <!--
 - 🔭 I’m currently working on...
