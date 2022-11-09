@@ -6,7 +6,11 @@ I'm a software engineer building Android apps at [WillowTree](https://www.willow
 - 🔭 I’m currently working on...
 -->
 
-- 🌱 I’m currently learning [home improvement & maintenance](https://www.thisoldhouse.com/), [Android Jetpack Compose](https://developer.android.com/courses/pathways/compose), and [bluegrass flatpicking guitar](https://artistworks.com/guitar-lessons-bryan-sutton).
+- 🌱 I’m currently learning:
+  - 🍎 [iOS development](https://developer.apple.com/tutorials/app-dev-training/)
+  - 🛠️ [home improvement](https://www.thisoldhouse.com/)
+  - 🤖 [Android Jetpack Compose](https://developer.android.com/courses/pathways/compose)
+  - 🎸 [bluegrass flatpicking guitar](https://artistworks.com/guitar-lessons-bryan-sutton)
 - 💬 Ask me about trail running, hiking, camping, and [the books I'm reading](https://www.goodreads.com/user/show/89591116-ryan-payne).
 - 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/ryanbrookepayne).
 - ⚡ Fun fact: I used to train reining horses.
